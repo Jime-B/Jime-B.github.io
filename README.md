@@ -1,1 +1,1 @@
-# Jime-B.github.io
+I am a Computer Science graduate with a concentration in Data Analytics from Southern New Hampshire University. I have developed a strong foundation in software engineering, algorithms, database systems and secure application development. My professional goal is to transition int data science where I can apply structured problem solving and data driven analysis to support informed decision making. 
