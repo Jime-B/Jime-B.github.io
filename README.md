@@ -7,20 +7,21 @@ I am particularly interested in data transformation and analysis. I enjoy workin
 
 # Capstone Project
 
-## Code review
-- [View the code review](https://youtu.be/kLzNAJF6ARQ)
+## Code review and Original Artifact
+- [Download Original Artifact](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Original%20Artifact%20-%20Event%20Tracking%20App%20Android%20Studio.zip)
+- [View code review](https://youtu.be/kLzNAJF6ARQ)
 
 ## Software Design and Engineering
-- [View Narrative](https://docs.google.com/document/d/14ycEo1aU55nbN7czVBBzByY5sHtSUWzE/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
-- [Download Narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Software%20Design%20and%20Engineering%20Narrative.docx)
+- [View narrative](https://docs.google.com/document/d/14ycEo1aU55nbN7czVBBzByY5sHtSUWzE/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
+- [Download narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Software%20Design%20and%20Engineering%20Narrative.docx)
 - [Download Software Design and Engineering ZIP file](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Enhancement%20One%20-%20Software%20Design%20and%20Engineering.zip)
 
 ## Algorithms and Data Structure
-- [View Narrative](https://docs.google.com/document/d/1FK7ezFc2JEhGesH3K2NxM8dMVSyyDLjU/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
-- [Download Narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_two/Algorithms%20and%20Data%20Structure%20Narrative.docx)
+- [View narrative](https://docs.google.com/document/d/1FK7ezFc2JEhGesH3K2NxM8dMVSyyDLjU/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
+- [Download narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_two/Algorithms%20and%20Data%20Structure%20Narrative.docx)
 - [Download Algorithms and Data Structure ZIP file](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_two/Enhancement%20Two%20-%20Algorithms%20and%20Data%20Structure.zip)
 
 ## Databases
-- [View Narrative](https://docs.google.com/document/d/10obe0beiEhV7hWfZIika-MgFr0QY7_0k/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
-- [Download Narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_three/Databases%20Narrative.docx)
+- [View narrative](https://docs.google.com/document/d/10obe0beiEhV7hWfZIika-MgFr0QY7_0k/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
+- [Download narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_three/Databases%20Narrative.docx)
 - [Download Databases ZIP file](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_three/Enhancement%20Three%20-%20Databases.zip)
