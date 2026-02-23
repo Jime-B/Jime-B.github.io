@@ -10,7 +10,10 @@ I am particularly interested in data transformation and analysis. I enjoy workin
 ## Code review
 - [View the code review](https://youtu.be/kLzNAJF6ARQ)
 
-## Enhancement One
+## Enhancement One - Software Design and Engineering
+- [View Narrative](https://docs.google.com/document/d/14ycEo1aU55nbN7czVBBzByY5sHtSUWzE/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
+- [Download Narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Software%20Design%20and%20Engineering%20Narrative.docx)
+- [Download Software Design and Engineering ZIP file](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Enhancement%20One%20-%20Software%20Design%20and%20Engineering.zip)
 
 ## Enhancement Two
 
