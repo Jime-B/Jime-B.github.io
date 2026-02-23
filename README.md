@@ -10,12 +10,17 @@ I am particularly interested in data transformation and analysis. I enjoy workin
 ## Code review
 - [View the code review](https://youtu.be/kLzNAJF6ARQ)
 
-## Enhancement One - Software Design and Engineering
+## Software Design and Engineering
 - [View Narrative](https://docs.google.com/document/d/14ycEo1aU55nbN7czVBBzByY5sHtSUWzE/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
 - [Download Narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Software%20Design%20and%20Engineering%20Narrative.docx)
 - [Download Software Design and Engineering ZIP file](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_one/Enhancement%20One%20-%20Software%20Design%20and%20Engineering.zip)
 
-## Enhancement Two
+## Algorithms and Data Structure
+- [View Narrative](https://docs.google.com/document/d/1FK7ezFc2JEhGesH3K2NxM8dMVSyyDLjU/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
+- [Download Narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_two/Algorithms%20and%20Data%20Structure%20Narrative.docx)
+- [Download Algorithms and Data Structure ZIP file](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_two/Enhancement%20Two%20-%20Algorithms%20and%20Data%20Structure.zip)
 
-## Enhancement Three
-
+## Databases
+- [View Narrative](https://docs.google.com/document/d/10obe0beiEhV7hWfZIika-MgFr0QY7_0k/edit?usp=sharing&ouid=112229830316126689592&rtpof=true&sd=true)
+- [Download Narrative](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_three/Databases%20Narrative.docx)
+- [Download Databases ZIP file](https://github.com/Jime-B/Jime-B.github.io/blob/main/enhancement_three/Enhancement%20Three%20-%20Databases.zip)
