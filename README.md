@@ -5,4 +5,14 @@ Through the Computer Science Program at Southern New Hampshire University, I dev
 I am particularly interested in data transformation and analysis. I enjoy working with structured datasets, optimizing queries and converting raw data into meaningful summaries that can be clearly communicated to stakeholders. My portfolio reflects an integrated skill set that combines backend development, database management, secure computing solutions and analytical reasoning. 
 
 
-## Capstone Project
+# Capstone Project
+
+## Code review
+- [View the code review](https://youtu.be/kLzNAJF6ARQ)
+
+## Enhancement One
+
+## Enhancement Two
+
+## Enhancement Three
+
