@@ -3,3 +3,6 @@ I am a Computer Science graduate with a concentration in Data Analytics from Sou
 Through the Computer Science Program at Southern New Hampshire University, I developed the ability to design efficient computing solutions using algorithmic principles and performance aware design. I gained experience building modular backend systems, managing relational and non-relational databases and implementing secure authentication and data protection practices. My work emphasizes clean architecture, scalable design and thoughtful evaluation of technical trade-offs. 
 
 I am particularly interested in data transformation and analysis. I enjoy working with structured datasets, optimizing queries and converting raw data into meaningful summaries that can be clearly communicated to stakeholders. My portfolio reflects an integrated skill set that combines backend development, database management, secure computing solutions and analytical reasoning. 
+
+
+## Capstone Project
